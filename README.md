@@ -1,2 +1,2 @@
 # CarAccidentAnalysis
-The data set includes information about car accidents in Seattle from 2004 to present. I analyze the data set.
+I wanted to confirm whether its more dangerous to drive when it first rains (after a dry period). I got precipitaion data and cross checked the different kinds of weather conditions with a car accident data set. I found that dry driving is the most safe. While driving after it first rain is more dangerous than dry condtions, it's hard to tell whether it's more dangerous than moderately wet conditions. To be continued...
