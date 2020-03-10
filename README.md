@@ -1,5 +1,6 @@
-# Weather Analysis on Car Accidents
-I wanted to confirm whether its more dangerous to drive when it first rains (after a dry period). I found that dry driving is the most safe, but the danger in different kinds of wet conditions are statistically the same. This conclusion is probably misleading because the weather data was hourly and certain conditions could be more dangerous in smaller time periods. 
+# Are Roads more Dangerous after it has been dry for a while and then Rains?
+
+# I wanted to confirm whether its more dangerous to drive when it first rains (after a dry period). I found that dry driving is the most safe, but the danger in different kinds of wet conditions are statistically the same. This conclusion is probably misleading because the weather data was hourly and certain conditions could be more dangerous in smaller time periods. 
 
 
 Here are some basic stats I found from a data set the city of Seattle put out with accidents starting in the 2000s:
